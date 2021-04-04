@@ -16,7 +16,7 @@ In this challenge, you will use a data set of artists to build an "influential a
 
 ### Commits
 
-Commit your code regularly and meaningfully. 
+Commit your code regularly and meaningfully.
 
 ## Interview Questions
 ### (please edit this file and write your answer below each question. In addition, you may also review these questions with your mentor)
@@ -24,11 +24,23 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Web acessibility refers to how flexible a website or web tools were designed, so that they can be used by poeple with a broad range of different abilities.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+- Add keyboard navigation
+- Avoind using too many tables
+- Avoid using placeholders
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable can be pictured as a box that carries a label and whose content can change.
+
 4. What is the purpose of using functions in code?
 
-You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
+Functions are used to prevent the programmer from repeating routines. For example, instead of adding two numbers on numerous ocations, he can create function and call it every time it is necessary. 
+
+You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
 
@@ -74,4 +86,4 @@ After finishing your required elements, you can push your work further. These go
 
 ## Submission format
 
-Please see canvas for cohort specific submission instructions 
+Please see canvas for cohort specific submission instructions
