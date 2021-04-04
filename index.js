@@ -409,7 +409,7 @@ function artists_90 (arr){
   function born_90 (obj) {
     return obj.years.split('-').[0]>=1900  && obj.years.split('-').[0]<=1999;
   };
-  return artists.filter(born_90);
+  return arr.filter(born_90);
 };
 
 console.log(artists_90(artists));
